@@ -57,7 +57,7 @@ function App() {
         <div>
           <h2 className='text-red-primary font-bold text-2xl'>Your Cart ({totalItems})</h2>
           <img src="/images/illustration-empty-cart.svg" alt="" />
-          <p>test</p>
+          <p>test2</p>
         </div>
       </aside>
 
